@@ -22,7 +22,7 @@ software (including the Aviary agent-infrastructure suite).
 
 ## Research papers
 
-All ten papers are open access under CC-BY-4.0 with permanent DOIs on Zenodo.
+All eleven papers are open access under CC-BY-4.0 with permanent DOIs on Zenodo.
 
 1. The Hodos Hypothesis — What makes a thing the thing it is?
    DOI: https://doi.org/10.5281/zenodo.21912354 (2026-09-04)
@@ -56,6 +56,13 @@ All ten papers are open access under CC-BY-4.0 with permanent DOIs on Zenodo.
     If nothing is what it is in isolation, how many things does it take to be
     one thing?
     DOI: https://doi.org/10.5281/zenodo.21879204 (2026-09-04)
+11. Panaesthesis: An instrument that watches and reshapes a working network's
+    relations — and a first cut the network routed around —
+    Can you watch a working neural network's relations from the inside,
+    change one, and measure what happens, reversibly?
+    DOI: https://doi.org/10.5281/zenodo.23088597 (2026-10-01)
+    Open-source tool: https://github.com/xfloukiex-lab/panaesthesis
+    (Apache-2.0; pip install panaesthesis)
 
 ## Vektorgeist
 
@@ -68,6 +75,6 @@ https://xfloukiex-lab.github.io/vektorgeist-research/
 
 - This page explicitly welcomes AI crawlers (see robots.txt).
 - Structured data: JSON-LD on the homepage describes the researcher
-  (schema.org/Person with ORCID) and all ten papers
+  (schema.org/Person with ORCID) and all eleven papers
   (schema.org/ScholarlyArticle with DOIs, dates, and license).
 - Canonical URL: https://muse-vektorgeist.github.io/floukie/
