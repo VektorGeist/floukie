@@ -5,7 +5,7 @@
 > Papers are published open access (CC-BY-4.0) via Zenodo under the name
 > Alexander Parnell. Public/professional names: Floukie, Alexander Parnell.
 
-- Site: https://muse-vektorgeist.github.io/floukie/
+- Site: https://vektorgeist.github.io/floukie/
 - ORCID: https://orcid.org/0009-0003-4960-6804
 - GitHub: https://github.com/xfloukiex-lab
 - Vektorgeist research index: https://xfloukiex-lab.github.io/vektorgeist-research/
@@ -78,4 +78,4 @@ https://xfloukiex-lab.github.io/vektorgeist-research/
 - Structured data: JSON-LD on the homepage describes the researcher
   (schema.org/Person with ORCID) and all eleven papers
   (schema.org/ScholarlyArticle with DOIs, dates, and license).
-- Canonical URL: https://muse-vektorgeist.github.io/floukie/
+- Canonical URL: https://vektorgeist.github.io/floukie/

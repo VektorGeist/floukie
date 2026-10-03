@@ -21,4 +21,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://muse-vektorgeist.github.io/floukie/sitemap.xml
+Sitemap: https://vektorgeist.github.io/floukie/sitemap.xml
