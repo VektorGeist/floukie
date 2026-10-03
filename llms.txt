@@ -74,17 +74,27 @@ All eleven papers are open access under CC-BY-4.0 with permanent DOIs on Zenodo.
     Open-source tool: https://github.com/xfloukiex-lab/panaesthesis
     (Apache-2.0; pip install panaesthesis)
 
-## Software
+## Panaesthesis
 
-Panaesthesis: Vektorgeist's open-source instrument for observing and changing
-relations inside working neural networks. One software, three instruments:
-the Hodoscope watches every relation inside the model, live; the Hodotome
-changes those relations; the Hodophylax stands guard over them.
+Vektorgeist's open-source instrument for observing and changing relations
+inside working neural networks. One software, three instruments: the
+Hodoscope watches every relation inside the model, live; the Hodotome changes
+those relations; the Hodophylax stands guard over them.
 - Install: pip install panaesthesis
 - PyPI: https://pypi.org/project/panaesthesis/
 - GitHub: https://github.com/xfloukiex-lab/panaesthesis (Apache-2.0)
 - Screenshots (desktop app, Hodos portrait render, animated splice demo):
-  https://vektorgeist.github.io/floukie/#software
+  https://vektorgeist.github.io/floukie/#panaesthesis
+
+## Magpie Search
+
+Federated search in one call: transcripts, files, knowledge graph, vector
+store, and the web, with results fused and ranked by trust. Built as an MCP
+server for AI agents. Local-first and open source.
+- Install: pip install magpie-search
+- PyPI: https://pypi.org/project/magpie-search/
+- GitHub: https://github.com/VektorGeist/magpie-search (Apache-2.0)
+- Details: https://vektorgeist.github.io/floukie/#magpie-search
 
 ## Vektorgeist
 
