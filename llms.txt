@@ -86,16 +86,6 @@ those relations; the Hodophylax stands guard over them.
 - Screenshots (desktop app, Hodos portrait render, animated splice demo):
   https://vektorgeist.github.io/floukie/#panaesthesis
 
-## Magpie Search
-
-Federated search in one call: transcripts, files, knowledge graph, vector
-store, and the web, with results fused and ranked by trust. Built as an MCP
-server for AI agents. Local-first and open source.
-- Install: pip install magpie-search
-- PyPI: https://pypi.org/project/magpie-search/
-- GitHub: https://github.com/VektorGeist/magpie-search (Apache-2.0)
-- Details: https://vektorgeist.github.io/floukie/#magpie-search
-
 ## Vektorgeist
 
 Vektorgeist builds local-first AI tools and agent-governance software.
