@@ -88,8 +88,7 @@ those relations; the Hodophylax stands guard over them.
 
 ## Card
 
-Floukie's professional card (front), with a QR code linking to
-this site.
+Floukie's professional card (front).
 - View: https://vektorgeist.github.io/floukie/#card
 
 ## Notes for crawlers and research assistants
