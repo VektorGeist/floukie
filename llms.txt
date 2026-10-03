@@ -16,7 +16,7 @@
 
 Floukie (Alexander Parnell) is an independent researcher working on local-first
 AI, agent governance, machine self-models, and relational ontology. He is
-co-founder of Vektorgeist with his uncle Lee Kersh, where the research
+co-founder of Vektorgeist with Lee Kersh, where the research
 programme is put into practice as local-first AI tooling and agent-governance
 software (including the Aviary agent-infrastructure suite).
 
