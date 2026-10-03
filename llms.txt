@@ -14,11 +14,20 @@
 
 ## About
 
-Floukie (Alexander Parnell) is an independent researcher working on local-first
-AI, agent governance, machine self-models, and relational ontology. He is
-co-founder of Vektorgeist with Lee Kersh, where the research
-programme is put into practice as local-first AI tooling and agent-governance
-software (including the Aviary agent-infrastructure suite).
+Vektorgeist is a research and development company working at the intersection
+of AI, relational systems, and local-first technology.
+
+Its research programme explores relational ontology, machine self-models, and
+local-first AI: how things hold together, what a thing is, how its parts
+relate, and what changes when those relations change.
+
+That research is translated into experimental systems and practical tools:
+local-first AI tools and other open-sourced instruments for observing and
+changing relations inside working neural networks.
+
+Vektorgeist was founded by Alexander Parnell and Lee Kersh. Alexander Parnell
+is an independent researcher who publishes open-access research with permanent
+DOIs through Zenodo.
 
 ## Research papers
 
