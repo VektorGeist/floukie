@@ -502,6 +502,11 @@
   ul.plain li:last-child { border-bottom: none; }
   ul.plain .note { color: #97816B; font-size: 0.9rem; }
 
+  figure.shot { margin: 0 0 1.8rem; }
+  figure.shot img { width: 100%; height: auto; display: block; border: 1px solid #E4D6BE; border-radius: 4px; background: #fff; }
+  figure.shot figcaption { color: #6E5D4B; font-size: 0.9rem; margin-top: 0.5rem; }
+  code { font-size: 0.92em; background: #F3EBDB; padding: 0.1em 0.35em; border-radius: 3px; }
+
   footer {
     border-top: 1px solid #E4D6BE;
     margin-top: 3rem; padding: 1.2rem 0 3rem;
@@ -526,6 +531,7 @@
     <nav>
       <a href="#about">About</a>
       <a href="#research">Research</a>
+      <a href="#software">Software</a>
       <a href="#vektorgeist">Vektorgeist</a>
       <a href="#links">Links</a>
     </nav>
@@ -601,6 +607,23 @@
           <p class="paper-meta">2026 &middot; DOI: <a href="https://doi.org/10.5281/zenodo.23088597">10.5281/zenodo.23088597</a> &middot; CC-BY-4.0 &middot; <a href="https://github.com/xfloukiex-lab/panaesthesis">open-source tool</a></p>
         </li>
       </ol>
+    </section>
+
+    <section id="software" aria-labelledby="software-h">
+      <h2 id="software-h">Software</h2>
+      <p>Panaesthesis is Vektorgeist's open-source instrument for observing and changing relations inside working neural networks. One software, three instruments: the Hodoscope watches every relation inside the model, live; the Hodotome changes those relations; the Hodophylax stands guard over them. Install with <code>pip install panaesthesis</code>. <a href="https://pypi.org/project/panaesthesis/">PyPI</a> &middot; <a href="https://github.com/xfloukiex-lab/panaesthesis">GitHub</a>.</p>
+      <figure class="shot">
+        <img src="panaesthesis-app.png" alt="Panaesthesis desktop app, Connect tab" loading="lazy">
+        <figcaption>The Panaesthesis desktop app. Point it at a model and the views come alive.</figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="panaesthesis-portrait.png" alt="Hodos portrait render of two network layers read over time" loading="lazy">
+        <figcaption>A Hodos portrait: two layers of a network read over time, the gap between them, and whether they come together under strain.</figcaption>
+      </figure>
+      <figure class="shot">
+        <img src="panaesthesis-splice.gif" alt="Animated demo of the Hodotome splicing a relation" loading="lazy">
+        <figcaption>The Hodotome splicing a relation, animated.</figcaption>
+      </figure>
     </section>
 
     <section id="vektorgeist" aria-labelledby="vg-h">
