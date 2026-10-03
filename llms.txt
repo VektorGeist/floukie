@@ -1,9 +1,11 @@
-# Floukie — Alexander Parnell
+# Vektorgeist
 
-> Independent researcher working on local-first AI, agent governance, machine
-> self-models, and relational ontology. Co-founder of Vektorgeist.
-> Papers are published open access (CC-BY-4.0) via Zenodo under the name
-> Alexander Parnell. Public/professional names: Floukie, Alexander Parnell.
+
+> Local-first AI tools and agent-governance software. Research programme in
+> relational ontology, machine self-models, and local-first AI.
+
+> Founded by Floukie (Alexander Parnell) and Lee Kersh.
+> Papers are published open access (CC-BY-4.0) via Zenodo under the name Alexander Parnell. Public/professional names: Floukie, Alexander Parnell.
 
 - Site: https://vektorgeist.github.io/floukie/
 - ORCID: https://orcid.org/0009-0003-4960-6804
@@ -14,11 +16,11 @@
 
 ## About
 
-Floukie (Alexander Parnell) is an independent researcher working on local-first
-AI, agent governance, machine self-models, and relational ontology. He is
-co-founder of Vektorgeist with Lee Kersh, where the research
-programme is put into practice as local-first AI tooling and agent-governance
-software (including the Aviary agent-infrastructure suite).
+Vektorgeist builds local-first AI tools and agent-governance software,
+including the Aviary agent-infrastructure suite and Panaesthesis. It was
+founded by Floukie (Alexander Parnell) and Lee Kersh. Floukie is an
+independent researcher working on local-first AI, agent governance, machine
+self-models, and relational ontology; the research programme is put into practice as local-first AI tooling and agent-governance software.
 
 ## Research papers
 
