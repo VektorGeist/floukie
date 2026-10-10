@@ -37,7 +37,7 @@ All eleven papers are open access under CC-BY-4.0 with permanent DOIs on Zenodo.
    DOI: https://doi.org/10.5281/zenodo.21912354 (2026-09-04)
 2. The Vektorgeist Method (VGM): How We Build Things —
    How do you build AI a person can own, inspect and trust?
-   DOI: https://doi.org/10.5281/zenodo.21613155 (2026-10-02)
+   DOI: https://doi.org/10.5281/zenodo.23104934 (2026-10-02)
 3. The Afferent Gnosis Model: Self-Knowledge Without Self-Control —
    Can a machine's account of itself ever be trusted?
    DOI: https://doi.org/10.5281/zenodo.21613153 (2026-09-04)
@@ -70,7 +70,7 @@ All eleven papers are open access under CC-BY-4.0 with permanent DOIs on Zenodo.
 11. Relational Intelligence, Measured with Panaesthesis —
     Can you watch a working neural network's relations from the inside,
     change one, and measure what happens, reversibly?
-    DOI: https://doi.org/10.5281/zenodo.23088597 (2026-10-02)
+    DOI: https://doi.org/10.5281/zenodo.23088597 (2026-10-05, v5)
     Open-source tool: https://github.com/xfloukiex-lab/panaesthesis
     (Apache-2.0; pip install panaesthesis)
 
